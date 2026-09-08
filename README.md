@@ -1,5 +1,5 @@
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/priestess-hero-v2.png" /><source media="(prefers-color-scheme: light)" srcset="assets/priestess-hero-light-v5.png" /><img align="top" src="assets/priestess-hero-light-v5.png" width="100%" alt="Hey, Doctor. 留在这里，再陪我一会儿。Leoluis0705 — tools, games &amp; little experiments. 普瑞赛斯主题插画。" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/priestess-hero-dark-v6.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/priestess-hero-light-v6.svg" /><img align="top" src="assets/priestess-hero-light-v6.svg" width="100%" alt="Hey, Doctor. 留在这里，再陪我一会儿。Leoluis0705 — tools, games &amp; little experiments. 普瑞赛斯轻缓眨眼、指尖微动与呼吸光动画。" /></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/quiet-connection.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/quiet-connection-light.svg" /><img align="top" src="assets/quiet-connection-light.svg" width="100%" alt="PRTS / Still here. 轻柔呼吸灯、流动光点与波形动画；支持减少动态效果偏好。" /></picture>
 </p>
 
