@@ -1,12 +1,12 @@
 <p align="center">
-  <img align="top" src="assets/priestess-hero-v2.png" width="100%" alt="Hey, Doctor. 留在这里，再陪我一会儿。Leoluis0705 — tools, games &amp; little experiments. 普瑞赛斯主题插画。" />
-  <img align="top" src="assets/quiet-connection.svg" width="100%" alt="PRTS / Still here. 轻柔呼吸灯、流动光点与波形动画；支持减少动态效果偏好。" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/priestess-hero-v2.png" /><source media="(prefers-color-scheme: light)" srcset="assets/priestess-hero-light-v5.png" /><img align="top" src="assets/priestess-hero-light-v5.png" width="100%" alt="Hey, Doctor. 留在这里，再陪我一会儿。Leoluis0705 — tools, games &amp; little experiments. 普瑞赛斯主题插画。" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/quiet-connection.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/quiet-connection-light.svg" /><img align="top" src="assets/quiet-connection-light.svg" width="100%" alt="PRTS / Still here. 轻柔呼吸灯、流动光点与波形动画；支持减少动态效果偏好。" /></picture>
 </p>
 
 <p>
-  <img align="right" src="assets/priestess-companion-v4.svg" width="28%" alt="我在，慢慢来。普瑞赛斯自然眨眼、轻轻晃身和摆腿的陪伴动画。" />
-  <a href="https://github.com/Leoluis0705/Visio-ai-plugin"><img align="top" src="assets/project-visio-v3.svg" width="62%" alt="01 · Visio AI Plugin — 让想法变成图。点击打开项目。" /></a><br />
-  <a href="https://github.com/Leoluis0705/Mod3-MHW-Importer"><img align="top" src="assets/project-mod3-v3.svg" width="62%" alt="02 · Mod3 MHW Importer — 把另一个世界带进 Blender。点击打开项目。" /></a>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/priestess-companion-v4.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/priestess-companion-light-v5.svg" /><img align="right" src="assets/priestess-companion-light-v5.svg" width="28%" alt="我在，慢慢来。普瑞赛斯自然眨眼、轻轻晃身和摆腿的陪伴动画。" /></picture>
+  <a href="https://github.com/Leoluis0705/Visio-ai-plugin"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-visio-v3.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-visio-v3-light.svg" /><img align="top" src="assets/project-visio-v3-light.svg" width="62%" alt="01 · Visio AI Plugin — 让想法变成图。点击打开项目。" /></picture></a><br />
+  <a href="https://github.com/Leoluis0705/Mod3-MHW-Importer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-mod3-v3.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-mod3-v3-light.svg" /><img align="top" src="assets/project-mod3-v3-light.svg" width="62%" alt="02 · Mod3 MHW Importer — 把另一个世界带进 Blender。点击打开项目。" /></picture></a>
 </p>
 
 <p align="center">
