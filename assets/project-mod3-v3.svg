@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="210" viewBox="0 0 760 210" role="img" aria-labelledby="title desc">
+  <title id="title">Mod3 MHW Importer — 把另一个世界带进 Blender</title>
+  <desc id="desc">Project 02. Monster Hunter World Mod3 importer for Blender. Open the project.</desc>
+  <defs>
+    <linearGradient id="glass"><stop stop-color="#b39acc" stop-opacity=".06"/><stop offset="1" stop-color="#dbc7ff" stop-opacity=".2"/></linearGradient>
+  </defs>
+  <path fill="#0d1117" d="M0 0h760v210H0z"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="203" y="52" fill="#bba5d7" font-size="14" letter-spacing="1.5">02 / ANOTHER WORLD</text>
+    <text x="201" y="95" fill="#eee7f6" font-size="34" font-weight="500">Mod3 MHW Importer</text>
+    <text x="203" y="131" fill="#a49aaf" font-size="21">把另一个世界带进 Blender。</text>
+    <text x="686" y="100" fill="#c6aee8" font-size="30">↗</text>
+  </g>
+  <g fill="url(#glass)" stroke="#bda6d9" stroke-width="1.2" stroke-linejoin="round">
+    <path d="m115 36 49 33-9 51-45 30-37-46 6-44Z"/>
+    <path d="m115 36-5 63 54-30-49-33 40 84-45-21-37 5 42-68M79 60l31 39v51m0-51 45 21" fill="none"/>
+    <circle cx="115" cy="36" r="2.5" fill="#dfd0f2"/><circle cx="110" cy="99" r="3" fill="#dfd0f2"/>
+    <circle cx="155" cy="120" r="2.5" fill="#dfd0f2"/>
+  </g>
+  <path d="M88 181q210-30 435 0t212 0" fill="none" stroke="#8f75ae" stroke-opacity=".24"/>
+</svg>

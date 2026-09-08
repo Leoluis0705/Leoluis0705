@@ -1,8 +1,12 @@
 <p align="center">
   <img align="top" src="assets/priestess-hero-v2.png" width="100%" alt="Hey, Doctor. 留在这里，再陪我一会儿。Leoluis0705 — tools, games &amp; little experiments. 普瑞赛斯主题插画。" />
   <img align="top" src="assets/quiet-connection.svg" width="100%" alt="PRTS / Still here. 轻柔呼吸灯、流动光点与波形动画；支持减少动态效果偏好。" />
-  <a href="https://github.com/Leoluis0705/Visio-ai-plugin"><img align="top" src="assets/project-visio.png" width="100%" alt="01 · Visio AI Plugin — From an idea to a diagram. 点击查看 AI 辅助 Visio 绘图插件。" /></a>
-  <a href="https://github.com/Leoluis0705/Mod3-MHW-Importer"><img align="top" src="assets/project-mod3-v2.png" width="100%" alt="02 · Mod3 MHW Importer — Bring another world into Blender. 点击查看怪物猎人：世界 Mod3 导入插件。Take your time." /></a>
+</p>
+
+<p>
+  <img align="right" src="assets/priestess-companion-v3.svg" width="32%" alt="我在，慢慢来。普瑞赛斯轻轻晃身、摆腿的陪伴动画。" />
+  <a href="https://github.com/Leoluis0705/Visio-ai-plugin"><img align="top" src="assets/project-visio-v3.svg" width="66%" alt="01 · Visio AI Plugin — 让想法变成图。点击打开项目。" /></a><br />
+  <a href="https://github.com/Leoluis0705/Mod3-MHW-Importer"><img align="top" src="assets/project-mod3-v3.svg" width="66%" alt="02 · Mod3 MHW Importer — 把另一个世界带进 Blender。点击打开项目。" /></a>
 </p>
 
 <p align="center">
