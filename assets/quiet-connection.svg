@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="80" viewBox="0 0 1200 80" role="img" aria-labelledby="title desc">
+  <title id="title">PRTS · Still here.</title>
+  <desc id="desc">A decorative quiet connection: a softly breathing violet light, a slowly traveling signal, and a small waveform. Reduced motion preferences show a static version.</desc>
+  <style>
+    .halo { transform-box:fill-box; transform-origin:center; animation:breathe 5s ease-in-out infinite; }
+    .signal { animation:travel 9s linear infinite; }
+    .signal-two { animation:travel 9s linear -4.5s infinite; }
+    .wave { transform-box:fill-box; transform-origin:center; animation:voice 3.6s ease-in-out infinite; }
+    .w2 { animation-delay:-.6s; } .w3 { animation-delay:-1.2s; } .w4 { animation-delay:-1.8s; } .w5 { animation-delay:-2.4s; }
+    @keyframes breathe { 0%,100% {transform:scale(.72);opacity:.12} 50% {transform:scale(1.14);opacity:.32} }
+    @keyframes travel { 0% {transform:translateX(0);opacity:0} 8% {opacity:.7} 88% {opacity:.7} 100% {transform:translateX(560px);opacity:0} }
+    @keyframes voice { 0%,100% {transform:scaleY(.4);opacity:.4} 50% {transform:scaleY(1);opacity:.75} }
+    @media (prefers-reduced-motion:reduce) { .halo,.signal,.signal-two,.wave {animation:none} .signal,.signal-two {display:none} .halo {opacity:.15} }
+  </style>
+  <defs>
+    <linearGradient id="thread" gradientUnits="userSpaceOnUse" x1="300" y1="40" x2="920" y2="40"><stop stop-color="#b7a3d7" stop-opacity=".07"/><stop offset=".45" stop-color="#b7a3d7" stop-opacity=".38"/><stop offset="1" stop-color="#b7a3d7" stop-opacity=".07"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#c8b0ed" stop-opacity=".75"/><stop offset="1" stop-color="#c8b0ed" stop-opacity="0"/></radialGradient>
+  </defs>
+  <path fill="#0d1117" d="M0 0h1200v80H0z"/>
+  <circle class="halo" cx="56" cy="40" r="16" fill="#bda0e4" opacity=".2"/>
+  <circle cx="56" cy="40" r="3.5" fill="#c2a8e9"/>
+  <text x="80" y="45" fill="#a99bbf" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="2">PRTS / STILL HERE</text>
+  <path d="M300 40h620" stroke="url(#thread)" fill="none"/>
+  <g class="signal"><ellipse cx="326" cy="40" rx="20" ry="7" fill="url(#glow)"/><circle cx="326" cy="40" r="2" fill="#d8c6f3"/></g>
+  <g class="signal-two"><ellipse cx="326" cy="40" rx="14" ry="5" fill="url(#glow)"/><circle cx="326" cy="40" r="1.5" fill="#c1a4e7"/></g>
+  <g stroke="#b7a3d7" stroke-width="2" stroke-linecap="round">
+    <path class="wave" d="M967 35v10"/><path class="wave w2" d="M975 30v20"/><path class="wave w3" d="M983 26v28"/>
+    <path class="wave w4" d="M991 31v18"/><path class="wave w5" d="M999 35v10"/>
+  </g>
+  <text x="1022" y="45" fill="#766d83" font-family="Segoe UI,Arial,sans-serif" font-size="14">Take your time.</text>
+</svg>
