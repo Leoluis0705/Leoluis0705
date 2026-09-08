@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  <img align="right" src="assets/priestess-companion-v3.svg" width="28%" alt="我在，慢慢来。普瑞赛斯轻轻晃身、摆腿的陪伴动画。" />
+  <img align="right" src="assets/priestess-companion-v4.svg" width="28%" alt="我在，慢慢来。普瑞赛斯自然眨眼、轻轻晃身和摆腿的陪伴动画。" />
   <a href="https://github.com/Leoluis0705/Visio-ai-plugin"><img align="top" src="assets/project-visio-v3.svg" width="62%" alt="01 · Visio AI Plugin — 让想法变成图。点击打开项目。" /></a><br />
   <a href="https://github.com/Leoluis0705/Mod3-MHW-Importer"><img align="top" src="assets/project-mod3-v3.svg" width="62%" alt="02 · Mod3 MHW Importer — 把另一个世界带进 Blender。点击打开项目。" /></a>
 </p>
